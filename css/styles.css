@@ -104,3 +104,9 @@ label{
 .links:visited{
   color: #FFFEB7;
 }
+.link{
+  color: #FFADAD;
+}
+.link:hover{
+  color: #A8E7E9;
+}
