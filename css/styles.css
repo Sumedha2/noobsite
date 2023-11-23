@@ -2,7 +2,7 @@
 body
 {
 margin:0px;
-font-family: 'Gluten', cursive;
+font-family:'Courier New', Courier, monospace;
 }
 p{
   font-weight: normal;
@@ -52,7 +52,7 @@ label{
 }
 .bottom-cloud{
   position: absolute;
-  top: 350px;
+  top: 450px;
   left: 100px
 }
 .top-cloud{
